@@ -1,0 +1,4 @@
+env/
+.env
+live.py
+__pycache__/
